@@ -1,0 +1,11 @@
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.deps.json
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.runtimeconfig.json
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.runtimeconfig.dev.json
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.dll
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.AssemblyInfoInputs.cache
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.AssemblyInfo.cs
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp2.0\MyFirstWebApp.pdb
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.dll
+C:\Users\Joshu\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp2.0\MyFirstWebApp.pdb
